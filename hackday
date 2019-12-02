@@ -1,0 +1,106 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":MAA:  *Moody's Analytics Accelerator hosts Hack Day events*  :newspaper:"
+			}
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"text": "As part of our mission to promote innovation throughout Moody's Analytics, the Accelerator team has sponsored Hack Day events in locations world wide in 2019. What is a Hack Day? Hack Days allow employees from all backgrounds to solution their own ideas and present to a judging panel of senior leaders. Teams can enjoy snacks, t-shirts, prizes and swag from our partners. ",
+					"type": "mrkdwn"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": ":calendar: |   *UPCOMING HACK DAY EVENTS*  | :calendar: "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Dec 9-10` :flag-cn: *Shenzen* :flag-cn:  17 teams competing! \n\n Join #event-hackday-sz for more info."
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "Registration Closed",
+					"emoji": true
+				}
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Dec 17-18` :flag-us: *New York City* :flag-us: Call for participants! \n\n Join #event-nyc-hackday for more info."
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "Register Now",
+					"emoji": true
+				            },
+				"url": "https://moodys.spigit.com/hackdaynyc2019/Page/Overview"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Jan 23-24` :flag-be: *Brussels* :flag-be: Call for participants! \n\n Join #event-brussels-hackday for more info."
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "Register Now",
+					"emoji": true
+            },
+				"url": "https://moodys.spigit.com/hackdaybrussels/Page/Overview"
+			
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Jan 30-31` :flag-fr: *France* :flag-fr: Call for participants! \n\n Join #event-france-hackday for more info."
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "Register Now",
+					"emoji": true
+								},
+				"url": "https://moodys.spigit.com/hackdayfrance/Page/Overview"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": ":pushpin: Interested in holding a Hack Day event at your location?  Reach out to *Caroline Waters*."
+				}
+			]
+		}
+	]
+}
